@@ -1,8 +1,3 @@
 more text
 
-asdfasdf
-a
-sdfa
-gasd
-fas
-df
+- text deleted -
