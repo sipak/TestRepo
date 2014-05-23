@@ -1,2 +1,3 @@
-test
-====
+Testing GitHub
+
+some random text
